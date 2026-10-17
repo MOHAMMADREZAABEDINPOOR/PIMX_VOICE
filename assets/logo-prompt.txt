@@ -1,0 +1,5 @@
+PIMXVOICE logo provenance
+Generated with the built-in ImageGen tool, 2026-10-17. Transparent PNG master; toolbar assets are resampled copies of the same master.
+
+Exact prompt:
+Use case: logo-brand. Create ONE extraordinary production-ready brand symbol for PIMXVOICE, a premium browser extension for live video dubbing and bilingual subtitles. Asset: square app icon master, transparent true alpha background, no text or lettering. Primary request: a distinctive compact monogram combining a bold sculpted P with two voice/speech ribbons crossing into an X in its negative space. Make it clean, assertive and instantly recognizable at 24px; one coherent symbol rather than several floating icons. A midnight navy core with vivid turquoise and cool periwinkle accents, immaculate geometric silhouette, crisp vector-like edges, subtle controlled material depth only inside the mark. Centered and large with 10 percent safe padding. No mockup, no card, no background glow, no border, no microphone, no headphones, no generic equalizer bars, no watermarks. This is a standalone premium identity asset, beautifully finished and simple enough for a toolbar icon.
