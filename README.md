@@ -22,9 +22,9 @@ Choose **dubbing**, **subtitles**, or **both**. Set the narration language indep
 
 Actual captures of the extension interface. The subtitle preview is sample text; it is not a measured translation benchmark.
 
-| Translation · English | Translation · فارسی | Subtitle styling · فارسی |
-|:---:|:---:|:---:|
-| <img src="assets/readme/translation-en.png" width="280" alt="English popup with output mode, dubbing language and narrator controls" /> | <img src="assets/readme/translation-fa.png" width="280" alt="Persian popup with translation controls" /> | <img src="assets/readme/subtitles-fa.png" width="280" alt="Persian subtitle customization panel" /> |
+| Translation | Subtitle styling |
+|:---:|:---:|
+| <img src="assets/readme/translation-en.png" width="360" alt="PIMXVOICE English translation controls" /> | <img src="assets/readme/subtitles-en.png" width="360" alt="PIMXVOICE English subtitle settings and preview" /> |
 
 ## One tab. Three ways to follow it.
 
@@ -114,7 +114,7 @@ Optional UI checks use Python + Playwright: `python scripts/browser-v2.py`. Live
 
 ## Artwork and credits
 
-The animated hero is an original Three.js scene: an audio waveform enters a browser player and becomes two subtitle tracks. GitHub displays its rendered GIF; the portfolio also has an interactive scene for this project. Artwork is illustrative, not a live API demonstration.
+The animated hero is an original Three.js scene: an audio waveform enters a browser player and becomes two subtitle tracks. GitHub displays its rendered GIF; the portfolio displays actual captures of the extension interface. Artwork is illustrative, not a live API demonstration.
 
 The logo was made with ImageGen; its provenance is in [assets/logo-prompt.txt](assets/logo-prompt.txt). Vazirmatn is bundled under the [SIL Open Font License](fonts/OFL.txt).
 
